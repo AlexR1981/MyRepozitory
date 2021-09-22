@@ -1,0 +1,14 @@
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\temp\DirectumRX\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+C:\temp\DirectumRX\TestTask\TestTask\obj\Debug\TestTask.MainForm.resources
+C:\temp\DirectumRX\TestTask\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\temp\DirectumRX\TestTask\TestTask\obj\Debug\TestTask.csproj.GenerateResource.Cache
+C:\temp\DirectumRX\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\temp\DirectumRX\TestTask\TestTask\obj\Debug\TestTask.pdb
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\SQLite.Designer.dll
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\System.Data.SQLite.dll
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\EntityFramework.dll
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\SQLite.Designer.pdb
+C:\temp\DirectumRX\TestTask\TestTask\bin\Debug\System.Data.SQLite.pdb
